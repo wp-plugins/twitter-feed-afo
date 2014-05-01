@@ -21,13 +21,13 @@ This is a recent twitter feed widget. It's compatible with twitter api v1.1. so 
 * This plugin supports twitter api v1.1 so no worries. 
 
 = Important =
-* You need to create a new twitter app to get all the required data.
+* You need to create a new twitter app to get this plugin working.
 * Please log in to <a href="https://apps.twitter.com/">https://apps.twitter.com/</a> with your twitter account Username and Password. And click on the Create new app button.
-
 * A new window will open. Enter all the relevant data, and follow the instructions. Your new app will be created.
 * Now on the API Keys tab you will get all the data required for the plugin.
-* #For Access Token and Access Token Secret#
-* Click the Generate Access Token button and your access token and key will be created.
+* For Access Token and Access Token Secret
+* Click the Generate Access Token button and your access token and key will be created. 
+* You need to enter all these data at the plugin's settings page.
 
 == Installation ==
 
