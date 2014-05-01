@@ -92,7 +92,11 @@ $afo_accesstokensecret = get_option('afo_accesstokensecret');
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="2">Please login to your twitter account and create a new app from <a href="https://apps.twitter.com/" target="_blank">https://apps.twitter.com/</a>. Then add all the information marked are required.</a></td>
+    <td colspan="2">You need to create a new twitter app and enter all the required data mentioned in the form. <br />
+	Please log in to <a href="https://apps.twitter.com/" target="_blank">https://apps.twitter.com/</a> with your twitter account <strong>Username</strong> and <strong>Password</strong>. And click on the <strong>Create new app</strong> button.<br />
+	A new window will open. Enter all the relevant data, and follow the instructions. Your new app will be created.<br />
+Now on the <strong>API Keys</strong> tab you will get all the data required for the plugin to work.
+</td>
   </tr>
 </table>
 </form>
