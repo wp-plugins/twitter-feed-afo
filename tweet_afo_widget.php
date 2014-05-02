@@ -74,7 +74,7 @@ class tweet_wid extends WP_Widget {
 						$ret .= '<br>'. $datetoshow;
 					$ret .= '</li>';
 				}
-				$ret .= '<li><a href="https://twitter.com/'.$afo_twitteruser.'">Follow @'.$afo_twitteruser.'</a></li>';
+				$ret .= '<li><a href="https://twitter.com/'.$afo_twitteruser.'" target="_blank">Follow @'.$afo_twitteruser.'</a></li>';
 			$ret .= '</ul>';
 		} else {
 			$ret = 'Sorry. No tweets found!';
@@ -83,7 +83,6 @@ class tweet_wid extends WP_Widget {
 		return $ret;
 		//echo '<pre>';
 		//echo print_r($tweets);
-		
 		
 	}
 	
