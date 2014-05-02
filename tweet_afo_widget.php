@@ -61,7 +61,10 @@ class tweet_wid extends WP_Widget {
 		 
 		$tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=".$afo_twitteruser."&count=".$afo_notweets);
 		
-		$tweets = array_filter($tweets);
+		if(is_array($tweets)){
+			$tweets = array_filter($tweets);
+		}
+		
 		if(is_array($tweets) and count($tweets) > 0){
 			$ret = '<ul>';
 				foreach($tweets as $key => $value){
@@ -73,6 +76,8 @@ class tweet_wid extends WP_Widget {
 				}
 				$ret .= '<li><a href="https://twitter.com/'.$afo_twitteruser.'">Follow @'.$afo_twitteruser.'</a></li>';
 			$ret .= '</ul>';
+		} else {
+			$ret = 'Sorry. No tweets found!';
 		}
 		
 		return $ret;
