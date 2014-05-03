@@ -58,6 +58,9 @@ This is a recent twitter feed widget. It's compatible with twitter api v1.1. so 
 
 == Changelog ==
 
+= 1.0.2 =
+* warning message error is solved when blank value is returned from twitter.
+
 = 1.0.1 =
 * this is the first release.
 
