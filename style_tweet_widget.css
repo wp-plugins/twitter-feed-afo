@@ -1,0 +1,11 @@
+.afo_error {
+    background-color: #D5FFD5;
+    border: 1px solid #003300;
+    color: #000000;
+    float: left;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: 500;
+    padding: 6px;
+    width: 97%;
+	clear:both !important;
+}
