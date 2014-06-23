@@ -1,6 +1,6 @@
 === Recent Tweet Widget AFO ===
 Contributors: avimegladon
-Donate link: http://donateafo.net84.net/
+Donate link: http://aviplugins.com/donate/
 Tags: twitter, widget, twitter widget, twitter feed, twitter sidebar, twitter sidebar widget, feed, recent, recent tweet, tweet, tweet feed
 Requires at least: 2.0.2
 Tested up to: 3.8.1
