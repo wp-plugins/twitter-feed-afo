@@ -29,8 +29,7 @@ This is a recent twitter feed widget. It's compatible with twitter api v1.1. so 
 * Click the Generate Access Token button and your access token and key will be created. 
 * You need to enter all these data at the plugin's settings page.
 
-= Get Quote =
-Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating a Custom Plugin, for Customizing a Plugin and for customizing wordpress themes.
+> Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating a <strong>Custom</strong> Plugin.
 
 == Installation ==
 
@@ -41,9 +40,6 @@ Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating a Cus
 4. Go to `Appearance->Widgets` ,in available widgets you will find Twitter Widget AFO` widget, drag it to chosen widget area where you want it to appear.
 5. Now visit your blog and you will see a working twitter feed section.
 
-= Get Quote =
-Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating a Custom Plugin, for Customizing a Plugin and for customizing wordpress themes.
-
 
 == Frequently Asked Questions ==
 
@@ -51,10 +47,6 @@ Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating a Cus
 
 1. Please email me avi.megladon@gmail.com. My site is http://avifoujdar.wordpress.com/contact/ 
 2. Or you can write comments directly to my plugins page. Please visit here http://avifoujdar.wordpress.com/
-
-= Get Quote =
-Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating a Custom Plugin, for Customizing a Plugin and for customizing wordpress themes.
-
 
 == Screenshots ==
 
