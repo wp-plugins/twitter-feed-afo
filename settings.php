@@ -99,7 +99,7 @@ class tweet_afo_settings {
 	<?php }
 	
 	function tween_widget_afo_menu () {
-		add_options_page( 'Recent Tweet Widget', 'Tweet Widget Settings', 1, 'tween_widget_afo_menu', array( $this,'tweet_widget_afo_options') );
+		add_options_page( 'Recent Tweet Widget', 'Tweet Widget Settings', 10, 'tween_widget_afo_menu', array( $this,'tweet_widget_afo_options') );
 	}
 	
 	function tweet_widget_afo_save_settings(){

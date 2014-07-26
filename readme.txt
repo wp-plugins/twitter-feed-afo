@@ -4,7 +4,7 @@ Donate link: http://aviplugins.com/donate/
 Tags: twitter, widget, twitter widget, twitter feed, twitter sidebar, twitter sidebar widget, feed, recent, recent tweet, tweet, tweet feed
 Requires at least: 2.0.2
 Tested up to: 3.8.1
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,9 @@ This is a recent twitter feed widget. It's compatible with twitter api v1.1. so 
 
 
 == Changelog ==
+
+= 1.1.3 =
+* admin menu related bug fixed.
 
 = 1.1.2 =
 * Fixed some minor bugs.
