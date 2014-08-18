@@ -29,7 +29,7 @@ This is a recent twitter feed widget. It's compatible with twitter api v1.1. so 
 * Click the Generate Access Token button and your access token and key will be created. 
 * You need to enter all these data at the plugin's settings page.
 
-> Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating a <strong>Custom</strong> Plugin or <a href="http://aviplugins.com/all.php">view all</a> plugins.
+> Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating your own custom plugin.
 
 == Installation ==
 
