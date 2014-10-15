@@ -45,8 +45,7 @@ This is a recent twitter feed widget. It's compatible with twitter api v1.1. so 
 
 = For any kind of problem =
 
-1. Please email me avi.megladon@gmail.com. My site is http://avifoujdar.wordpress.com/contact/ 
-2. Or you can write comments directly to my plugins page. Please visit here http://avifoujdar.wordpress.com/
+1. Please email me at demoforafo@gmail.com. Or submit your query at http://aviplugins.com/support.php
 
 == Screenshots ==
 
