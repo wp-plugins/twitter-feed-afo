@@ -8,7 +8,7 @@ class tweet_afo_settings {
 	}
 	
 	function login_widget_afo_save_settings(){
-		if($_POST['option'] == "login_widget_afo_save_settings"){
+		if(isset($_POST['option']) and $_POST['option'] == "login_widget_afo_save_settings"){
 			update_option( 'redirect_page', $_POST['redirect_page'] );
 			update_option( 'logout_redirect_page', $_POST['logout_redirect_page'] );
 			update_option( 'link_in_username', $_POST['link_in_username'] );
@@ -99,11 +99,11 @@ class tweet_afo_settings {
 	<?php }
 	
 	function tween_widget_afo_menu () {
-		add_options_page( 'Recent Tweet Widget', 'Tweet Widget Settings', 10, 'tween_widget_afo_menu', array( $this,'tweet_widget_afo_options') );
+		add_options_page( 'Recent Tweet Widget', 'Tweet Widget Settings', 'activate_plugins', 'tween_widget_afo_menu', array( $this,'tweet_widget_afo_options') );
 	}
 	
 	function tweet_widget_afo_save_settings(){
-		if($_POST['option'] == "tweet_widget_afo_save_settings"){
+		if(isset($_POST['option']) and $_POST['option'] == "tweet_widget_afo_save_settings"){
 			update_option( 'afo_twitteruser', $_POST['afo_twitteruser'] );
 			update_option( 'afo_notweets', $_POST['afo_notweets'] );
 			update_option( 'afo_consumerkey', $_POST['afo_consumerkey'] );
