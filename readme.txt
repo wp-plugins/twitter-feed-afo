@@ -31,9 +31,9 @@ This is a recent twitter feed widget. It's compatible with twitter api v1.1. so 
 
 = Twitter Feed PRO =
 There is a PRO version of this plugin that supports twitter feeds from multiple accounts. Customize the look/ style of the twitter feed widget from admin panel. Get it <a href="http://aviplugins.com/twitter-feed-pro/" target="_blank">here</a> in <strong>USD 2.00</strong>
-* Select Background color, Link color, Link hover color, Link hover style etc so that the twitter feed matches with your template styles.
-* Use Shortcode to display twitter feeds in your page.
-* Use Function to display twitter feeds in your template file.
+* Select Background color, Link color, Link hover color, Link hover style etc so that the twitter feed matches with your template styles.<br>
+* Use Shortcode to display twitter feeds in your page.<br>
+* Use Function to display twitter feeds in your template file.<br>
 Click <a href="http://aviplugins.com/twitter-feed-pro/" target="_blank">here</a> for full details. 
 
 > Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating your own custom plugin.
