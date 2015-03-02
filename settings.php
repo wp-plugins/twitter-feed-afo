@@ -24,6 +24,7 @@ class tweet_afo_settings {
 	$afo_consumersecret = get_option('afo_consumersecret');
 	$afo_accesstoken = get_option('afo_accesstoken');
 	$afo_accesstokensecret = get_option('afo_accesstokensecret');
+	$this->twitter_feed_pro_add();
 	$this->donate_form_tweet();
 	?>
 	<form name="f" method="post" action="">
@@ -94,6 +95,14 @@ class tweet_afo_settings {
           <input type="hidden" name="amount" value="0.60">
           <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Make a donation with PayPal">
         </form></td>
+  </tr>
+</table>
+	<?php }
+	
+	private function twitter_feed_pro_add(){ ?>
+	<table width="98%" border="0" style="background-color:#FFFFD2; border:1px solid #E6DB55; padding:0px 0px 0px 10px; margin:2px;">
+  <tr>
+    <td><p>The PRO version <strong>Twitter Feed PRO</strong> supports Twitter feeds from multiple accounts. There is option to customize the look of the twitter feed widget. Select background color, link color, link hover color, link hover style etc. You can get it <a href="http://aviplugins.com/twitter-feed-pro/" target="_blank">here</a> in <strong>USD 2.00</strong> </p></td>
   </tr>
 </table>
 	<?php }

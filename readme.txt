@@ -29,6 +29,14 @@ This is a recent twitter feed widget. It's compatible with twitter api v1.1. so 
 * Click the Generate Access Token button and your access token and key will be created. 
 * You need to enter all these data at the plugin's settings page.
 
+= Twitter Feed PRO =
+There is a PRO version of this plugin that supports twitter feeds from multiple accounts. Customize the look of the twitter feed widget. You can get it <a href="http://aviplugins.com/twitter-feed-pro/" target="_blank">here</a> in <strong>USD 2.00</strong>
+
+* Select Background color, Link color, Link hover color, Link hover style etc so that the twitter feed matches with your template styles.
+* Use Shortcode to display twitter feeds in your page.
+* Use function to display twitter feeds in your template file.
+Click <a href="http://aviplugins.com/twitter-feed-pro/" target="_blank">here</a> for full details. 
+
 > Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating your own custom plugin.
 
 == Installation ==
