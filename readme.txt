@@ -35,6 +35,7 @@ There is a PRO version of this plugin that supports twitter feeds from multiple 
 * Select Background color, Link color, Link hover color, Link hover style etc so that the twitter feed matches with your template styles.
 * Use Shortcode to display twitter feeds in your page.
 * Use Function to display twitter feeds in your template file.
+
 Click <a href="http://aviplugins.com/twitter-feed-pro/" target="_blank">here</a> for full details. 
 
 > Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating your own custom plugin.
