@@ -36,7 +36,7 @@ There is a PRO version of this plugin that supports twitter feeds from multiple 
 * Use Shortcode to display twitter feeds in your page.
 * Use Function to display twitter feeds in your template file.
 
-Click <a href="http://aviplugins.com/twitter-feed-pro/" target="_blank">here</a> for full details. 
+Click <a href="http://aviplugins.com/twitter-feed-pro/" target="_blank">here</a> for full details.
 
 > Get a <a href="http://aviplugins.com/get-quote.php">quote</a> for creating your own custom plugin.
 
